@@ -4,7 +4,10 @@ pragma solidity ^0.8.20;
 // =============================================================================
 //  EduProtocol - Protocolo Descentralizado de Educacao Web3
 //  Autor   : Alanio Ferreira de Lima
+//  Curso   : Residencia em TIC 29 - Web 3.0
+//  Prof.   : Bruno Portes
 //  Rede    : Sepolia Testnet
+//  GitHub  : https://github.com/Allanio007/eduprotocol
 //  Versao  : 1.0.0
 //
 //  Arquitetura do protocolo:

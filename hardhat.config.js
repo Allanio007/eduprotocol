@@ -1,3 +1,9 @@
+/**
+ * EduProtocol - Configuracao Hardhat
+ * Autor  : Alanio Ferreira de Lima
+ * Curso  : Residencia em TIC 29 - Web 3.0
+ * Rede   : Sepolia Testnet
+ */
 require("@nomicfoundation/hardhat-toolbox");
 require("dotenv").config();
 

@@ -1,7 +1,9 @@
 /**
  * EduProtocol - Script de Deploy (Hardhat)
- * Autor: Alanio Ferreira de Lima
- * Rede: Sepolia Testnet
+ * Autor  : Alanio Ferreira de Lima
+ * Curso  : Residencia em TIC 29 - Web 3.0
+ * Rede   : Sepolia Testnet
+ * GitHub : https://github.com/Allanio007/eduprotocol
  *
  * Ordem de deploy:
  *  1. EduToken

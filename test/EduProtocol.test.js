@@ -1,6 +1,8 @@
 /**
  * EduProtocol - Testes Unitarios (Hardhat + Chai)
- * Autor: Alanio Ferreira de Lima
+ * Autor  : Alanio Ferreira de Lima
+ * Curso  : Residencia em TIC 29 - Web 3.0
+ * GitHub : https://github.com/Allanio007/eduprotocol
  *
  * Cobertura:
  *  - EduToken  : deploy, transfer, approve, mintReward, burn

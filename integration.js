@@ -1,7 +1,9 @@
 /**
  * EduProtocol - Script de Integracao Web3 com ethers.js
- * Autor: Alanio Ferreira de Lima
- * Rede: Sepolia Testnet
+ * Autor  : Alanio Ferreira de Lima
+ * Curso  : Residencia em TIC 29 - Web 3.0
+ * Rede   : Sepolia Testnet
+ * GitHub : https://github.com/Allanio007/eduprotocol
  *
  * Este script demonstra:
  *   1. Mint de NFT (certificado de conclusao)

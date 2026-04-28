@@ -1,6 +1,14 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+// =============================================================================
+//  EduProtocol - Mock Chainlink AggregatorV3
+//  Autor   : Alanio Ferreira de Lima
+//  Curso   : Residencia em TIC 29 - Web 3.0
+//  Rede    : Sepolia Testnet
+//  Versao  : 1.0.0
+// =============================================================================
+
 /**
  * @title MockAggregatorV3
  * @dev Mock do Chainlink AggregatorV3Interface para uso em testes locais.
