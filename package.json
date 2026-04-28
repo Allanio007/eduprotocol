@@ -1,0 +1,25 @@
+{
+  "name": "eduprotocol",
+  "version": "1.0.0",
+  "description": "Protocolo Descentralizado de Educacao Web3 - Residencia em TIC 29",
+  "author": "Alanio Ferreira de Lima",
+  "license": "MIT",
+  "scripts": {
+    "compile":   "npx hardhat compile",
+    "test":      "npx hardhat test",
+    "coverage":  "npx hardhat coverage",
+    "deploy":    "npx hardhat run scripts/deploy.js --network sepolia",
+    "deploy:local": "npx hardhat run scripts/deploy.js --network hardhat",
+    "node":      "npx hardhat node",
+    "integrate": "node integration.js",
+    "verify":    "npx hardhat verify --network sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0"
+  }
+}

@@ -1,0 +1,33 @@
+# Variaveis de ambiente (NUNCA commitar!)
+.env
+
+# Dependencias Node.js
+node_modules/
+
+# Hardhat
+cache/
+artifacts/
+typechain/
+typechain-types/
+
+# Coverage
+coverage/
+coverage.json
+
+# Deploy
+deployed-addresses.json
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Arquivos temporarios
+*.tmp
+*.bak
