@@ -49,13 +49,13 @@ Plataformas educacionais centralizadas (Coursera, Udemy) detêm controle unilate
 
 | Contrato | Endereco | Explorer |
 |----------|----------|---------|
-| EduToken (EDU) | `0x...` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0x...) |
-| EduNFT (EDUCERT) | `0x...` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0x...) |
-| EduStaking | `0x...` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0x...) |
-| EduDAO | `0x...` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0x...) |
+| EduToken (EDU) | `0x9AB05e712419258670D1082Fb38d441BD1738531` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0x9AB05e712419258670D1082Fb38d441BD1738531) |
+| EduNFT (EDUCERT) | `0xa65A79a95bA093e5eb46E5CfF84e7D9986AD3190` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0xa65A79a95bA093e5eb46E5CfF84e7D9986AD3190) |
+| EduStaking | `0x49f7dC8cacC11065B74Be62BF039cdb5e225B6C9` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0x49f7dC8cacC11065B74Be62BF039cdb5e225B6C9) |
+| EduDAO | `0x5319fb3D02587d9b911fe83C70cCeC7DF88282eA` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0x5319fb3D02587d9b911fe83C70cCeC7DF88282eA) |
 | Chainlink ETH/USD (Sepolia) | `0x694AA1769357215DE4FAC081bf1f309aDC325306` | [Ver no Etherscan](https://sepolia.etherscan.io/address/0x694AA1769357215DE4FAC081bf1f309aDC325306) |
 
-> Os enderecos sao preenchidos apos o deploy com `npm run deploy`.
+> Deploy realizado em 28/04/2025 na Sepolia Testnet.
 
 ---
 
