@@ -10,6 +10,12 @@ pragma solidity ^0.8.20;
 //  GitHub  : https://github.com/Allanio007/eduprotocol
 //  Versao  : 1.0.0
 //
+//  Contratos deployados na Sepolia Testnet (28/04/2025):
+//  EduToken   : 0x9AB05e712419258670D1082Fb38d441BD1738531
+//  EduNFT     : 0xa65A79a95bA093e5eb46E5CfF84e7D9986AD3190
+//  EduStaking : 0x49f7dC8cacC11065B74Be62BF039cdb5e225B6C9
+//  EduDAO     : 0x5319fb3D02587d9b911fe83C70cCeC7DF88282eA
+//
 //  Arquitetura do protocolo:
 //  +--------------+     +-----------+     +-------------+     +-----------+
 //  |  EduToken    |<----|  EduNFT   |     | EduStaking  |---->| Chainlink |

@@ -38,12 +38,12 @@ let ADDRESSES;
 try {
   ADDRESSES = JSON.parse(fs.readFileSync("deployed-addresses.json", "utf8"));
 } catch {
-  // Fallback: preencha manualmente se ainda nao fez deploy
+  // Enderecos deployados na Sepolia Testnet em 28/04/2025
   ADDRESSES = {
-    EduToken:   "0xYourEduTokenAddress",
-    EduNFT:     "0xYourEduNFTAddress",
-    EduStaking: "0xYourEduStakingAddress",
-    EduDAO:     "0xYourEduDAOAddress",
+    EduToken:   "0x9AB05e712419258670D1082Fb38d441BD1738531",
+    EduNFT:     "0xa65A79a95bA093e5eb46E5CfF84e7D9986AD3190",
+    EduStaking: "0x49f7dC8cacC11065B74Be62BF039cdb5e225B6C9",
+    EduDAO:     "0x5319fb3D02587d9b911fe83C70cCeC7DF88282eA",
   };
 }
 
